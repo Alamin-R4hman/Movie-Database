@@ -1,0 +1,8 @@
+The Films Main Menu 
+Enter:
+1. Show all Films
+2. Add a Film
+3. Update a Film
+4. Delete a Film
+5. Reports Menu
+6. Exit the Film App

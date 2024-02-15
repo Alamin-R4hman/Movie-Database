@@ -1,0 +1,7 @@
+The Report of Films Main Menu 
+Enter:
+1. Show all Films
+2. All Films of a Selected Genre
+3. All Films of a Selected Year
+4. All Films of a Selected Rating
+5. Exit the Report of Films App to the Main Menu
